@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4946406794771768205
+  m_GuidHigh: 2096365479146828934
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5149946698118377293
+      m_GuidHigh: 15448180706761101960
+    m_SerializedTextureGuid:
+      m_GuidLow: 14273201164959227541
+      m_GuidHigh: 12145955364032812027
+    m_Size: {x: 0.85, y: 1.7335759}
+    m_SpecifySize: 1
+    m_Name: erasmusRollup
+    m_Texture: {fileID: 2800000, guid: 3d161e9598d6c614fb13ed320d1a8fa8, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4641832847195830357
+      m_GuidHigh: 8371867199621766543
+    m_SerializedTextureGuid:
+      m_GuidLow: 14863190534997593692
+      m_GuidHigh: 11702155848223267226
+    m_Size: {x: 0.268, y: 0.2132089}
+    m_SpecifySize: 1
+    m_Name: Van_Gogh_The_Olive_Trees.
+    m_Texture: {fileID: 2800000, guid: 037ace5ca90bce449a999b47be6866a2, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5575621362701503078
+      m_GuidHigh: 15714670541928205231
+    m_SerializedTextureGuid:
+      m_GuidLow: 6045018103310842105
+      m_GuidHigh: 5762492847192920664
+    m_Size: {x: 1, y: 0.99864316}
+    m_SpecifySize: 1
+    m_Name: architectureBuildingFloor
+    m_Texture: {fileID: 0}
