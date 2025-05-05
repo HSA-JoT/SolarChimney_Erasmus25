@@ -2,8 +2,9 @@
 In March and April 2025 a Blended Intensive Programme funded by European Union through ERASMUS+ was held at TOBB University, Department of Architecture, in Ankara, Turkey. 
 
 During that time the AR App was created by Prof. Dr. J. Tümler from Anhalt University, Köthen, Germany.
-
 The AR project makes use of Unity's AR Foundation and was tested on Android only.
+
+![Screenshot of real and virtual solar chimney prototype](https://github.com/HSA-JoT/SolarChimney_Erasmus25/blob/main/Assets/Textures/Photo.jpg?raw=true "Screenshot of real and virtual solar chimney prototype")
 
 ## Installation
 
