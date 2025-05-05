@@ -8,7 +8,7 @@ The AR project makes use of Unity's AR Foundation and was tested on Android only
 
 ## Installation
 
-Download the APK and install it. It will require access to your camera for the AR functionality. It can save screenshots to your file system at \DCIM on your phone.
+Download the APK from \Release and install it. It will require access to your camera for the AR functionality. It can save screenshots to your file system at \DCIM on your phone.
 
 ## App manual
 
