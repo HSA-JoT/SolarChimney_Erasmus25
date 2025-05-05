@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "erasmus-ar-app.sln"
+    "dotnet.defaultSolution": "SolarChimney_Erasmus25.sln"
 }
